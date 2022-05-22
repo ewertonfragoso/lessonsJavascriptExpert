@@ -1,4 +1,4 @@
-**Lesson 02 Mocks** 
+**Lesson 02 Stubs** 
 
 features description
 
