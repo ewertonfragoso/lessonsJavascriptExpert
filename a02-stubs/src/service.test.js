@@ -4,8 +4,8 @@ const BASE_URL_2 = "https://www.omdbapi.com/?t=ghost&apikey=62f946d5"
 const sinon = require('sinon')
 const { deepStrictEqual } =  require('assert')
 const mocks = {
-    guardians: require('./mocks/guardians.json'),
-    ghost: require('./mocks/ghost.json')
+    guardians: require('../mocks/guardians.json'),
+    ghost: require('../mocks/ghost.json')
 }
 
 ;(async () => {
