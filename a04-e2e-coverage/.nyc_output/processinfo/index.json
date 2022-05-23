@@ -1,0 +1,1 @@
+{"processes":{"9b5afb3c-66a7-46ac-bbb6-19d2db78e30a":{"parent":null,"children":["c038570d-7a7f-478a-bd10-f065fba6f90a"]},"c038570d-7a7f-478a-bd10-f065fba6f90a":{"parent":"9b5afb3c-66a7-46ac-bbb6-19d2db78e30a","children":[]}},"files":{"/Users/cbyk186/Desktop/projetos/curso-jsexpert/a04-e2e-coverage/api.js":["c038570d-7a7f-478a-bd10-f065fba6f90a"]},"externalIds":{}}
